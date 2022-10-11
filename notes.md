@@ -16,12 +16,12 @@ Event management software for large venues
 4. What does the front end (UI) consist of?
  
 ### What libraries or tools does the app need?
-(it helps to hve backup libraries for any given functionality)
+(it helps to have backup libraries for any given functionality)
 - Stripe, braintree, square, paypal
 - HTML canvas API (for custom stadium UI designs)
 - bcrypt
 - devise (for authentication/authorization)
-- PostgresQL
+- PostgreSQL
 - Heroku/Render/AWS/PythonAnywhere/Fly.io/TinyStacks/EngineYard/GCP/Microsoft Azure
 - React
 
